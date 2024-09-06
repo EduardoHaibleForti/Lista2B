@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725634367 source:c:\users\eduardo\desktop\listateorica2b\listateorica2b.c
+	<stdio.h>
+	<stdlib.h>
+
